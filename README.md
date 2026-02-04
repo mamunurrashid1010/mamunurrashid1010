@@ -5,12 +5,12 @@
 I am a **Software Developer** with **6+ years of professional experience** in building **scalable and efficient** software solutions. I hold a **B.Sc. in Computer Science and Engineering** and have worked extensively with **backend, frontend, cloud technologies, and DevOps**.
 
 ## 🔹 Technical Skills
-- **Languages:** PHP(Laravel), Node.js
-- **Databases:** MySQL, MongoDB
-- **Frontend:** Vue.js, React.js, HTML5, CSS3
-- **REST API Development:**
-- **Cloud & DevOps:** AWS, cPanel, WHM, Docker, Jenkins, Familiar with Kubernetes
-- **Caching & Messaging:** Redis, RabbitMQ
+- **Languages:** Go (Golang), PHP (Laravel)
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Caching, Messaging and Searching:** Redis, RabbitMQ and Elasticsearch
+- **Frontend:** Vue.js, React.js
+- **REST API Development, SaaS & Microservices**
+- **Cloud & DevOps:** AWS, Jenkins, Docker, Kubernetes
 - **Project Management:** Agile methodology, Scrum, Trello
 - **Source Control:** Git, GitHub, GitLab
 
